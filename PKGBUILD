@@ -1,6 +1,6 @@
 pkgname='st-xresources-git'
 _pkgname='st'
-pkgver=r4.8a8358d
+pkgver=r1105.9157ac3
 pkgrel=1
 
 pkgdesc='Simple terminal with Xresources support'
